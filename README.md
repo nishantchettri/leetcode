@@ -5,3 +5,5 @@ Solution to LeetCode problems
 1. FindDisappearedNumbers
 2. MergeBinaryTrees
 3. SingleNumber
+4. Rob
+5. MajorityElement
