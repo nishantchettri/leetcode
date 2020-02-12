@@ -5,7 +5,7 @@ public class FindDisappearedNumbers
 {
 	static int[] s = new int[] { 4, 3, 2, 7, 8, 2, 3, 1 };
 
-	static void Main(string[] args)
+	private static void Main(string[] args)
 	{
 		var res = FindDisappearedNumberList(s);
 		Console.WriteLine(string.Join(",",res));

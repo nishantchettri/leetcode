@@ -1,11 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
+
 public class MergeBinaryTrees
 {
 	static int[] s = new int[] { 4, 3, 2, 7, 8, 2, 3, 1 };
 	//static TreeNode t1 = new TreeNode() { 1, 3, 2, 5 };
 	//static TreeNode t2 = new TreeNode() { 2, 1, 3, null, 4, null, 7 };
-	static void Main(string[] args)
+	private static void Main(string[] args)
 	{
 		var res = MergeTrees(null, null);
 		Console.WriteLine(string.Join(",", res));
