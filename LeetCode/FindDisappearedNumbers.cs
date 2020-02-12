@@ -1,17 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class Program
+public class FindDisappearedNumbers
 {
 	static int[] s = new int[] { 4, 3, 2, 7, 8, 2, 3, 1 };
 
 	static void Main(string[] args)
 	{
-		var res = FindDisappearedNumbers(s);
+		var res = FindDisappearedNumberList(s);
 		Console.WriteLine(string.Join(",",res));
 		Console.ReadLine();
 	}
-	static IList<int> FindDisappearedNumbers(int[] nums)
+
+	// Space Complexity: O(n)
+	// Time Complexity: O(n)
+	private static IList<int> FindDisappearedNumberList(int[] nums)
 	{
 		HashSet<int> sets = new HashSet<int>();
 		List<int> missingNums = new List<int>();
