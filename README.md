@@ -8,3 +8,4 @@ Solution to LeetCode problems
 4. HouseRobber
 5. MajorityElement
 6. MinStack
+7. MaxDepth

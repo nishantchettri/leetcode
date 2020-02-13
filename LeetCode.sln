@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeBinaryTrees", "MergeBinaryTrees\MergeBinaryTrees.csproj", "{758B5ABF-5A25-4B36-9602-BE597DA28211}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxDepth", "MaxDepth\MaxDepth.csproj", "{EA81F2D0-29B8-42C0-A8BA-29809CBB0653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{758B5ABF-5A25-4B36-9602-BE597DA28211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{758B5ABF-5A25-4B36-9602-BE597DA28211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{758B5ABF-5A25-4B36-9602-BE597DA28211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA81F2D0-29B8-42C0-A8BA-29809CBB0653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA81F2D0-29B8-42C0-A8BA-29809CBB0653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA81F2D0-29B8-42C0-A8BA-29809CBB0653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA81F2D0-29B8-42C0-A8BA-29809CBB0653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
