@@ -3,9 +3,10 @@ Solution to LeetCode problems
 
 **Easy**
 1. FindDisappearedNumbers
-2. MergeBinaryTrees
-3. SingleNumber
-4. HouseRobber
-5. MajorityElement
+2. HouseRobber
+3. MajorityElement
+4. MaxDepth
+5. MergeBinaryTrees
 6. MinStack
-7. MaxDepth
+7. SingleNumber
+8. ValidParentheses
