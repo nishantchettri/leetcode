@@ -7,3 +7,4 @@ Solution to LeetCode problems
 3. SingleNumber
 4. HouseRobber
 5. MajorityElement
+6. MinStack
